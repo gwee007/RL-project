@@ -1,5 +1,5 @@
 # Project summary
-Optimising the cartpole problem using RL reinforcement learning. 
+Optimising the cartpole problem using RL reinforcement learning. Notebook only works in Google Colab environment.
 
 ## Essential libraries needed
 * gym: Provides access to various reinforcement learning environments.
